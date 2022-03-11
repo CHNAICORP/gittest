@@ -1,2 +1,2 @@
-Hello Git
-Git is free software
+Hello Git.
+Git is distributed free softwar.
