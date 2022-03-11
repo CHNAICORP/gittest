@@ -1,2 +1,2 @@
 Hello Git.
-Git is distributed free softwar.
+Git is distributed free software.
